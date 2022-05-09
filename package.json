@@ -1,0 +1,22 @@
+{
+  "name": "randomnumbermicroservice",
+  "version": "1.0.0",
+  "description": "Microservice to generate numbers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandon-D-Huynh/RandomNumberMicroservice.git"
+  },
+  "author": "Brandon Huynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandon-D-Huynh/RandomNumberMicroservice/issues"
+  },
+  "homepage": "https://github.com/Brandon-D-Huynh/RandomNumberMicroservice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
